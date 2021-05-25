@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Below is a program to find ASCII value of any input character.
+ - %c is the format specifier to take character as input
+*/
+
 int main()
 {
   printf("\n\n\t\tC Study Session - We Gonna learn today\n\n\n");
