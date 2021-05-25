@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Below is a program of a simple if-else condition statemens
+*/
+
 int main()
 {
   printf("\n\n\t\tC Study Session - We Gonna learn today\n\n\n");
