@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /*
-printf() is a system defined function under the header file stdio.h, used to print data onto the screen
-
-\n is used to move the control onto the next line
-
-\t is used to give a horizontal tab i.e. continuous five spaces
+Below is a simple program printing Hello World in C language.
+ - printf() is a system defined function under the header file stdio.h, used to print data onto the screen
+ - \n is used to move the control onto the next line
+ - \t is used to give a horizontal tab i.e. continuous five spaces
 */
 
 int main()
