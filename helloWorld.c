@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/*
+printf() is a system defined function under the header file stdio.h, used to print data onto the screen
+
+\n is used to move the control onto the next line
+
+\t is used to give a horizontal tab i.e. continuous five spaces
+*/
+
 int main()
 {
   printf("\n\n\t\tC Study Session - We Gonna learn today\n\n\n");
