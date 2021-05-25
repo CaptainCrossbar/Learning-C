@@ -1,5 +1,16 @@
 #include <stdio.h>
 
+/*
+Below is a program to explain how to take input from user for different datatypes available in C language. 
+The different datatypes are int(integer values), float(decimal values) and char(character values).
+ - printf() is used to display text onto the screen
+ - & is used to assign the input value to the variable and store it at that particular location.
+ - scanf() is uded to take input from the user using format specifier discussed in upcoming tutorials
+ - %d and %i, both are used to take numbers as input from the user.
+ - %f is the format specifier to take float as input from the user
+ - %s is the format specifier to take character as input from the user
+*/
+
 int main()
 {
   printf("\n\n\t\tC Study Session - We Gonna learn today\n\n\n");
