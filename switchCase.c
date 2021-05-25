@@ -25,20 +25,32 @@ int main()
   switch(grade) 
   {
     case 'A':
-      printf("Outstanding work. Bring honor to family, you have.");
+      printf("Outstanding work.\nBring honor to family, you have.\n");
+      printf("The break keyword takes the execution to exit the switch case and continue on.\n");
       break;
+      
     case 'B':
-      printf("Great work.\nBring honor to family, you have.\nBut raise grade to become favorite child, you must");
+      printf("Great work.\nBring honor to family, you have.\nBut raise grade to become favorite child, you must\n");
+      printf("The break keyword takes the execution to exit the switch case and continue on.\n");
       break;
+      
     case 'C':
-      printf("This is a passing grade.\nIts average but walking a fine line.");
+      printf("This is a passing grade.\nIts average but walking a fine line.\n");
+      printf("The break keyword takes the execution to exit the switch case and continue on.\n");
       break;
+      
     case 'D':
-      printf("You passed.\nIts not failing but its not something to brag about.");
+      printf("You passed.\nIts not failing but its not something to brag about.\n");
+      printf("The break keyword takes the execution to exit the switch case and continue on.\n");
       break;
+      
     case 'F':
-      printf("Tough luck.\nBetter luck next time...\nBrought dishonor to family, you have.");
+      printf("Tough luck.\nBetter luck next time...\nBrought dishonor to family, you have.\n");
+      printf("The break keyword takes the execution to exit the switch case and continue on.\n");
       break;
+      
+    default:
+      printf("Invalid Grade\n");
   }
   
   printf("Your grade is %c\n", grade);
