@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/*
+If the break statement is not used for a case then all the cases following the valid case are executed and evaluated. 
+This way you can make your code easier to understand by writing the break statement only once to check multiple conditions in one go.
+
+default is executed only if none of the above cases are true. It is similar to the else statement of the if-else code.
+*/
+
 int main()
 {
   printf("\n\n\t\tC Study Session - We Gonna learn today\n\n\n");
