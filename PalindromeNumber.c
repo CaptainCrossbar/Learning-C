@@ -3,6 +3,8 @@
 
 void main()
 {
+  printf("Hello World!!! We are just getting started. Gonna learn all the tings\n\n\n");
+  
   // Declare variables
   int a,b,c,s = 0;
   
@@ -35,4 +37,8 @@ void main()
   }
   
   getch();
+  
+  printf("\t\tIt is both:");
+  printf("\t\tGood and Evil");
+  printf("\t\tFun and Frustrating");
 }
