@@ -138,7 +138,7 @@ Month is March
 
 Array, pointer, structure and union are called derived data type in C
 
-4. OID DATA TYPE IN C 
+4. VOID DATA TYPE IN C 
 
 Void is an empty data type that has no value.
 This can be used in functions and pointers.
